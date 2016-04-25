@@ -1,0 +1,7 @@
+name 'InfluxDB'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures InfluxDB'
+long_description 'Installs/Configures InfluxDB'
+version '0.1.0'
